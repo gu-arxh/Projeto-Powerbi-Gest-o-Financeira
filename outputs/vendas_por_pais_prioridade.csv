@@ -1,0 +1,493 @@
+pais,prioridade,qtd_vendas
+Afghanistan,Alto,15
+Afghanistan,Baixo,5
+Afghanistan,Critico,2
+Afghanistan,Medio,33
+Albania,Alto,5
+Albania,Critico,2
+Albania,Medio,9
+Algeria,Alto,52
+Algeria,Baixo,10
+Algeria,Critico,20
+Algeria,Medio,114
+Angola,Alto,50
+Angola,Baixo,5
+Angola,Critico,1
+Angola,Medio,66
+Argentina,Alto,132
+Argentina,Baixo,14
+Argentina,Critico,22
+Argentina,Medio,222
+Armenia,Alto,2
+Armenia,Baixo,1
+Australia,Alto,902
+Australia,Baixo,97
+Australia,Critico,221
+Australia,Medio,1617
+Austria,Alto,99
+Austria,Baixo,3
+Austria,Critico,14
+Austria,Medio,215
+Azerbaijan,Alto,12
+Azerbaijan,Critico,4
+Azerbaijan,Medio,13
+Bahrain,Medio,2
+Bangladesh,Alto,42
+Bangladesh,Baixo,5
+Bangladesh,Critico,16
+Bangladesh,Medio,100
+Barbados,Alto,11
+Barbados,Baixo,4
+Barbados,Medio,11
+Belarus,Alto,16
+Belarus,Baixo,7
+Belarus,Critico,6
+Belarus,Medio,51
+Belgium,Alto,60
+Belgium,Baixo,5
+Belgium,Critico,10
+Belgium,Medio,72
+Benin,Alto,15
+Benin,Critico,1
+Benin,Medio,19
+Bolivia,Alto,16
+Bolivia,Baixo,1
+Bolivia,Critico,1
+Bolivia,Medio,30
+Bosnia and Herzegovina,Alto,10
+Bosnia and Herzegovina,Baixo,1
+Bosnia and Herzegovina,Medio,6
+Brazil,Alto,486
+Brazil,Baixo,55
+Brazil,Critico,122
+Brazil,Medio,936
+Bulgaria,Alto,24
+Bulgaria,Baixo,4
+Bulgaria,Critico,6
+Bulgaria,Medio,41
+Burundi,Alto,1
+Burundi,Medio,1
+Cambodia,Alto,22
+Cambodia,Critico,1
+Cambodia,Medio,22
+Cameroon,Alto,40
+Cameroon,Baixo,5
+Cameroon,Critico,14
+Cameroon,Medio,51
+Canada,Alto,128
+Canada,Baixo,11
+Canada,Critico,37
+Canada,Medio,208
+Central African Republic,Alto,2
+Central African Republic,Critico,4
+Central African Republic,Medio,1
+Chad,Critico,2
+Chile,Alto,67
+Chile,Baixo,6
+Chile,Critico,11
+Chile,Medio,59
+China,Alto,600
+China,Baixo,95
+China,Critico,151
+China,Medio,1034
+Colombia,Alto,92
+Colombia,Baixo,30
+Colombia,Critico,27
+Colombia,Medio,211
+Cote d'Ivoire,Alto,22
+Cote d'Ivoire,Baixo,3
+Cote d'Ivoire,Critico,2
+Cote d'Ivoire,Medio,82
+Croatia,Alto,6
+Croatia,Critico,3
+Croatia,Medio,23
+Cuba,Alto,255
+Cuba,Baixo,22
+Cuba,Critico,47
+Cuba,Medio,400
+Czech Republic,Alto,19
+Czech Republic,Baixo,1
+Czech Republic,Critico,7
+Czech Republic,Medio,44
+Democratic Republic of the Congo,Alto,120
+Democratic Republic of the Congo,Baixo,27
+Democratic Republic of the Congo,Critico,24
+Democratic Republic of the Congo,Medio,208
+Denmark,Alto,16
+Denmark,Baixo,5
+Denmark,Medio,44
+Djibouti,Alto,8
+Djibouti,Baixo,3
+Djibouti,Medio,1
+Dominican Republic,Alto,263
+Dominican Republic,Baixo,39
+Dominican Republic,Critico,42
+Dominican Republic,Medio,398
+Ecuador,Alto,15
+Ecuador,Baixo,3
+Ecuador,Critico,8
+Ecuador,Medio,30
+Egypt,Alto,163
+Egypt,Baixo,27
+Egypt,Critico,38
+Egypt,Medio,259
+El Salvador,Alto,198
+El Salvador,Baixo,47
+El Salvador,Critico,45
+El Salvador,Medio,446
+Equatorial Guinea,Medio,3
+Eritrea,Medio,2
+Estonia,Baixo,1
+Estonia,Medio,12
+Ethiopia,Alto,4
+Ethiopia,Medio,3
+Finland,Alto,15
+Finland,Baixo,1
+Finland,Critico,2
+Finland,Medio,46
+France,Alto,838
+France,Baixo,142
+France,Critico,223
+France,Medio,1624
+Gabon,Alto,10
+Gabon,Critico,1
+Gabon,Medio,3
+Georgia,Alto,9
+Georgia,Critico,2
+Georgia,Medio,22
+Germany,Alto,542
+Germany,Baixo,132
+Germany,Critico,168
+Germany,Medio,1223
+Ghana,Alto,35
+Ghana,Baixo,6
+Ghana,Critico,4
+Ghana,Medio,57
+Guadeloupe,Alto,3
+Guadeloupe,Medio,5
+Guatemala,Alto,135
+Guatemala,Baixo,47
+Guatemala,Critico,31
+Guatemala,Medio,308
+Guinea,Alto,5
+Guinea,Critico,1
+Guinea,Medio,12
+Guinea-Bissau,Alto,5
+Guinea-Bissau,Medio,4
+Haiti,Alto,33
+Haiti,Baixo,1
+Haiti,Critico,14
+Haiti,Medio,56
+Honduras,Alto,211
+Honduras,Baixo,36
+Honduras,Critico,52
+Honduras,Medio,414
+Hong Kong,Medio,21
+Hungary,Alto,22
+Hungary,Baixo,1
+Hungary,Critico,10
+Hungary,Medio,33
+India,Alto,437
+India,Baixo,50
+India,Critico,132
+India,Medio,936
+Indonesia,Alto,450
+Indonesia,Baixo,70
+Indonesia,Critico,86
+Indonesia,Medio,784
+Iran,Alto,175
+Iran,Baixo,22
+Iran,Critico,46
+Iran,Medio,364
+Iraq,Alto,140
+Iraq,Baixo,19
+Iraq,Critico,10
+Iraq,Medio,219
+Ireland,Alto,42
+Ireland,Baixo,8
+Ireland,Critico,11
+Ireland,Medio,45
+Israel,Alto,35
+Israel,Critico,17
+Israel,Medio,51
+Italy,Alto,334
+Italy,Baixo,73
+Italy,Critico,91
+Italy,Medio,610
+Jamaica,Alto,11
+Jamaica,Baixo,2
+Jamaica,Critico,3
+Jamaica,Medio,15
+Japan,Alto,69
+Japan,Baixo,11
+Japan,Critico,21
+Japan,Medio,149
+Jordan,Alto,5
+Jordan,Baixo,4
+Jordan,Critico,6
+Jordan,Medio,27
+Kazakhstan,Alto,40
+Kazakhstan,Baixo,3
+Kazakhstan,Critico,4
+Kazakhstan,Medio,54
+Kenya,Alto,32
+Kenya,Baixo,3
+Kenya,Critico,11
+Kenya,Medio,52
+Kyrgyzstan,Alto,18
+Kyrgyzstan,Baixo,1
+Kyrgyzstan,Critico,1
+Kyrgyzstan,Medio,20
+Lebanon,Alto,3
+Lebanon,Baixo,3
+Lebanon,Critico,3
+Lebanon,Medio,3
+Lesotho,Alto,5
+Lesotho,Medio,1
+Liberia,Alto,7
+Liberia,Baixo,1
+Liberia,Critico,1
+Liberia,Medio,6
+Libya,Alto,22
+Libya,Medio,17
+Lithuania,Alto,26
+Lithuania,Baixo,1
+Lithuania,Critico,3
+Lithuania,Medio,20
+Macedonia,Medio,4
+Madagascar,Alto,16
+Madagascar,Baixo,3
+Madagascar,Critico,3
+Madagascar,Medio,34
+Malaysia,Alto,53
+Malaysia,Baixo,9
+Malaysia,Critico,8
+Malaysia,Medio,106
+Mali,Alto,11
+Mali,Critico,2
+Mali,Medio,30
+Martinique,Alto,14
+Martinique,Medio,11
+Mauritania,Alto,1
+Mauritania,Baixo,2
+Mauritania,Medio,7
+Mexico,Alto,776
+Mexico,Baixo,138
+Mexico,Critico,221
+Mexico,Medio,1509
+Moldova,Alto,12
+Moldova,Baixo,3
+Moldova,Medio,24
+Mongolia,Alto,7
+Mongolia,Critico,4
+Mongolia,Medio,26
+Montenegro,Medio,4
+Morocco,Alto,121
+Morocco,Baixo,21
+Morocco,Critico,22
+Morocco,Medio,287
+Mozambique,Alto,23
+Mozambique,Baixo,1
+Mozambique,Critico,11
+Mozambique,Medio,59
+Myanmar (Burma),Alto,31
+Myanmar (Burma),Baixo,2
+Myanmar (Burma),Critico,10
+Myanmar (Burma),Medio,93
+Namibia,Alto,6
+Namibia,Baixo,1
+Namibia,Medio,2
+Nepal,Alto,3
+Nepal,Medio,16
+Netherlands,Alto,123
+Netherlands,Baixo,15
+Netherlands,Critico,29
+Netherlands,Medio,268
+New Zealand,Alto,188
+New Zealand,Baixo,25
+New Zealand,Critico,68
+New Zealand,Medio,347
+Nicaragua,Alto,183
+Nicaragua,Baixo,48
+Nicaragua,Critico,42
+Nicaragua,Medio,341
+Niger,Alto,17
+Niger,Medio,26
+Nigeria,Alto,276
+Nigeria,Baixo,28
+Nigeria,Critico,83
+Nigeria,Medio,518
+Norway,Alto,22
+Norway,Baixo,1
+Norway,Critico,3
+Norway,Medio,44
+Pakistan,Alto,104
+Pakistan,Baixo,13
+Pakistan,Critico,11
+Pakistan,Medio,121
+Panama,Alto,113
+Panama,Baixo,15
+Panama,Critico,27
+Panama,Medio,233
+Papua New Guinea,Alto,10
+Papua New Guinea,Critico,2
+Papua New Guinea,Medio,10
+Paraguay,Alto,6
+Paraguay,Critico,2
+Paraguay,Medio,4
+Peru,Alto,39
+Peru,Baixo,6
+Peru,Critico,20
+Peru,Medio,97
+Philippines,Alto,192
+Philippines,Baixo,43
+Philippines,Critico,27
+Philippines,Medio,419
+Poland,Alto,82
+Poland,Baixo,19
+Poland,Critico,12
+Poland,Medio,139
+Portugal,Alto,24
+Portugal,Baixo,4
+Portugal,Medio,42
+Qatar,Alto,11
+Qatar,Medio,5
+Republic of the Congo,Alto,6
+Romania,Alto,46
+Romania,Baixo,3
+Romania,Critico,13
+Romania,Medio,111
+Russia,Alto,143
+Russia,Baixo,14
+Russia,Critico,37
+Russia,Medio,190
+Rwanda,Alto,10
+Rwanda,Baixo,1
+Rwanda,Medio,25
+Saudi Arabia,Alto,94
+Saudi Arabia,Baixo,36
+Saudi Arabia,Critico,26
+Saudi Arabia,Medio,205
+Senegal,Alto,26
+Senegal,Baixo,5
+Senegal,Critico,21
+Senegal,Medio,60
+Sierra Leone,Alto,3
+Sierra Leone,Medio,12
+Singapore,Alto,43
+Singapore,Critico,14
+Singapore,Medio,84
+Slovakia,Alto,4
+Slovakia,Critico,3
+Slovakia,Medio,1
+Slovenia,Alto,2
+Slovenia,Baixo,1
+Somalia,Alto,19
+Somalia,Baixo,5
+Somalia,Critico,1
+Somalia,Medio,27
+South Africa,Alto,147
+South Africa,Baixo,23
+South Africa,Critico,48
+South Africa,Medio,243
+South Korea,Alto,48
+South Korea,Baixo,10
+South Korea,Critico,23
+South Korea,Medio,91
+South Sudan,Baixo,1
+South Sudan,Medio,1
+Spain,Alto,252
+Spain,Baixo,33
+Spain,Critico,87
+Spain,Medio,487
+Sri Lanka,Critico,1
+Sri Lanka,Medio,6
+Sudan,Alto,5
+Sudan,Baixo,13
+Sudan,Critico,6
+Sudan,Medio,68
+Swaziland,Alto,1
+Swaziland,Medio,1
+Sweden,Alto,47
+Sweden,Baixo,14
+Sweden,Critico,14
+Sweden,Medio,128
+Switzerland,Alto,20
+Switzerland,Baixo,5
+Switzerland,Critico,4
+Switzerland,Medio,49
+Syria,Alto,15
+Syria,Baixo,2
+Syria,Medio,12
+Taiwan,Alto,2
+Taiwan,Baixo,1
+Taiwan,Critico,8
+Taiwan,Medio,3
+Tajikistan,Medio,3
+Tanzania,Alto,42
+Tanzania,Baixo,1
+Tanzania,Critico,21
+Tanzania,Medio,84
+Thailand,Alto,65
+Thailand,Baixo,13
+Thailand,Critico,9
+Thailand,Medio,208
+Togo,Alto,1
+Togo,Critico,3
+Togo,Medio,40
+Trinidad and Tobago,Alto,9
+Trinidad and Tobago,Baixo,3
+Trinidad and Tobago,Medio,18
+Tunisia,Alto,6
+Tunisia,Medio,7
+Turkey,Alto,386
+Turkey,Baixo,66
+Turkey,Critico,96
+Turkey,Medio,830
+Turkmenistan,Alto,10
+Turkmenistan,Critico,5
+Turkmenistan,Medio,10
+Uganda,Alto,12
+Uganda,Baixo,6
+Uganda,Critico,2
+Uganda,Medio,17
+Ukraine,Alto,92
+Ukraine,Baixo,16
+Ukraine,Critico,41
+Ukraine,Medio,232
+United Arab Emirates,Alto,4
+United Arab Emirates,Critico,1
+United Arab Emirates,Medio,9
+United Kingdom,Alto,501
+United Kingdom,Baixo,115
+United Kingdom,Critico,117
+United Kingdom,Medio,900
+United States,Alto,3069
+United States,Baixo,432
+United States,Critico,783
+United States,Medio,5710
+Uruguay,Alto,4
+Uruguay,Medio,20
+Uzbekistan,Alto,3
+Uzbekistan,Baixo,7
+Uzbekistan,Critico,13
+Uzbekistan,Medio,25
+Venezuela,Alto,48
+Venezuela,Baixo,3
+Venezuela,Critico,18
+Venezuela,Medio,125
+Vietnam,Alto,84
+Vietnam,Baixo,7
+Vietnam,Critico,14
+Vietnam,Medio,160
+Yemen,Alto,7
+Yemen,Critico,6
+Yemen,Medio,17
+Zambia,Alto,24
+Zambia,Baixo,6
+Zambia,Critico,19
+Zambia,Medio,53
+Zimbabwe,Alto,33
+Zimbabwe,Baixo,6
+Zimbabwe,Critico,6
+Zimbabwe,Medio,35
